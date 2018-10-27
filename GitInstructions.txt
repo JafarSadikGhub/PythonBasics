@@ -1,0 +1,7 @@
+git config --global user.name "jafar95"
+git config --global user.email jafar.sadik@northsouth.edu
+git clone https://github.com/jafar95/PythonBasics.git
+git add GitInstructions.txt
+git status
+git commit -m "gitHub manual for noobs" GitInstructions.txt
+git push -u origin master
